@@ -1,2 +1,13 @@
-# Channel-Alarm
-A Warning Application for EVE Online
+# EVE Online 警报软件
+
+--声明--  
+本软件不使用EVE Online游戏内部接口，完全通过屏幕覆盖层方式监控屏幕上数据。不与 EVE Online游戏官方 _停用和封禁政策_ <https://support.eveonline.com/hc/zh-cn/articles/8563815513116> 发生冲突  
+
+使用本软件出现停用或封禁情况与作者无关  
+使用本软件出现停用或封禁情况与作者无关  
+使用本软件出现停用或封禁情况与作者无关  
+--声明--  
+
+本软件现有功能：监控本地频道红名玩家，记录出现时间、玩家名称、在玩家出现时发出beep警报
+
+如有更多想法欢迎随时Pull requests
